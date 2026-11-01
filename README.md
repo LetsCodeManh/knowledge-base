@@ -5,6 +5,7 @@ Every claim links to its source, at the minute or the heading it comes from.
 
 ## Read it
 
+- On the web: [knowledge-base-seven-olive.vercel.app](https://knowledge-base-seven-olive.vercel.app).
 - New here? Start with a path in [paths.md](paths.md).
 - Everything, by topic: [topics.md](topics.md).
 - Each note is one file in [notes/](notes/).
@@ -21,6 +22,6 @@ Public sources only, and every claim cited.
 
 ## Licence
 
-The notes are © Manh Ng, under [CC BY-NC 4.0](LICENSE): share and adapt them for non-commercial use, with credit and a link back here. Commercial use needs my permission.
+The notes are © Manh Ng, under [CC BY-NC 4.0](LICENSE): share and adapt them for non-commercial use, with credit and a link back here. Commercial use needs my permission: ask me on [LinkedIn](https://www.linkedin.com/in/manhngdev/).
 
-Made by Manh Ng · [GitHub](https://github.com/LetsCodeManh)
+Made by Manh Ng · [GitHub](https://github.com/LetsCodeManh) · [LinkedIn](https://www.linkedin.com/in/manhngdev/)
