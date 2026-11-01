@@ -21,6 +21,6 @@ Public sources only, and every claim cited.
 
 ## Licence
 
-The notes are © Manh Ng, under [CC BY 4.0](LICENSE): share and adapt them, with credit and a link back here.
+The notes are © Manh Ng, under [CC BY-NC 4.0](LICENSE): share and adapt them for non-commercial use, with credit and a link back here. Commercial use needs my permission.
 
 Made by Manh Ng · [GitHub](https://github.com/LetsCodeManh)

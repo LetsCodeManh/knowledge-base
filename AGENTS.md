@@ -1,7 +1,7 @@
 # Knowledge base: for an agent
 
 Notes on AI and the tools around it, written for a non-technical reader. Each claim links its source at the spot.
-Licence: CC BY 4.0 (`LICENSE`). Credit "Manh Ng" and link this repo.
+Licence: CC BY-NC 4.0 (`LICENSE`), non-commercial use only. Credit "Manh Ng" and link this repo.
 
 ## Find a note
 
