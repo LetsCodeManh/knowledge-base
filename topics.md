@@ -42,3 +42,9 @@ Every note, by topic, with what it gives you.
 ### Learning to code
 
 - [Design patterns](notes/design-patterns.md): Named, reusable ways to solve problems that keep coming up in code. Ten of the best known, in a line each, and when not to use them.
+
+## Cooking
+
+### Sweets
+
+- [Chocolate chip cookies from scratch](notes/chocolate-chip-cookie-levels.md): Six from-scratch chocolate chip cookie recipes, each built on the one before: upgraded Toll House, aged, loaded, Levain-style and a toasted-flour finale.

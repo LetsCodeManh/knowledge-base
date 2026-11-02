@@ -33,7 +33,7 @@ Then `# Title`, the line again in italics, and the body.
   A company may be named when it matters whose claim it is. A creator is "they".
 - An explainer says what it is not, when readers are likely to mix it up with something else.
 - One home per fact: a guide links an explainer, never restates it.
-- `## My take`: the owner's own view, written by the owner alone. Once, the last section before What changed.
+- `## My take` (or `## My recipe …`, the owner's own recipe): the owner's own view, written by the owner alone. Once, the last section before What changed.
 
 ## Citing
 

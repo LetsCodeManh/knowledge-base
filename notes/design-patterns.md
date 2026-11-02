@@ -36,7 +36,7 @@ A pattern is not an algorithm. You cannot paste one from a forum; you have to th
 
 Lean on your language's built-in features before reaching for a pattern, the presenter says ([Fireship, 1:34](https://www.youtube.com/watch?v=tv-_1er1mWI&t=94s)). The book has many critics ([Fireship, 1:00](https://www.youtube.com/watch?v=tv-_1er1mWI&t=60s)).
 
-See also Keep a system simple, Programmer regrets and TanStack Charts.
+See also Keep a system simple, Programmer regrets, UML diagrams and TanStack Charts.
 
 ## Sources
 
