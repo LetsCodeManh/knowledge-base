@@ -6,7 +6,7 @@ topic: "Programming"
 tags: [patterns, javascript, typescript, object-oriented]
 aliases: ["software design patterns", "gang of four", "GoF patterns"]
 related: []
-updated: 2026-10-26
+updated: 2026-11-01
 ---
 
 # Design patterns
@@ -18,6 +18,10 @@ A design pattern is a named, reusable way to solve a problem that programmers me
 They fall into three groups: creational (how objects are made), structural (how objects relate) and behavioral (how objects communicate) ([Fireship, 0:00](https://www.youtube.com/watch?v=tv-_1er1mWI&t=0s)).
 
 A pattern is not an algorithm. You cannot paste one from a forum; you have to think to apply it. Used in the wrong place, it adds complexity and boilerplate ([Fireship, 1:00](https://www.youtube.com/watch?v=tv-_1er1mWI&t=60s)).
+
+## Why learn them
+
+A teacher says small programs of 50 or 100 lines hide the problem. In a code base of tens of thousands of lines, you must know how pieces fit together. Then you will not rewrite thousands of lines later ([Tech With Tim, 0:00](https://www.youtube.com/watch?v=6dsuowZVv6Q&t=0s)).
 
 ## Ten patterns, in a line each
 
@@ -41,3 +45,4 @@ See also Keep a system simple, Programmer regrets, UML diagrams and TanStack Cha
 ## Sources
 
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI), Fireship, 2022-03-14
+- [Learning Programming Design Patterns](https://www.youtube.com/watch?v=6dsuowZVv6Q), Tech With Tim, 2023-04-07

@@ -45,9 +45,38 @@ Then `# Title`, the line again in italics, and the body.
 - Every cited source goes in the note's `## Sources`, its last section: `- [Its title](link), its author, its date`.
 - What a source claims is the source's claim: "Anthropic says", "one test found". Never stated as fact when only one
   creator says it. "Two creators say" only when both say it, both cited.
+- Sources disagree, and both may still hold: the note keeps both, each cited, and says which holds up better and
+  why, by the claim's kind ("Which claim holds up"). Nothing to tell them apart: the note says the question is open.
 - Your own arithmetic on a source's number is not the source's claim: leave it out, or cite the number.
 - A safety warning (a secret, data loss, a bill, who gets access) is a line of its own: `**Careful:** …`, one or two
   sentences. Cite a source that says it. None does? It stands uncited.
+
+## Which claim holds up
+
+A claim's kind sets its test. The date alone never decides (the user, 2026-11-02).
+
+- News (an event, a release, a price on a day): real when the maker's own word, two independent sources or figures
+  back it. One creator alone: "one creator reports". Hype with nothing behind it stays out. A dated event stays true.
+- A fact that changes (what a tool does now, a price now): the newer source wins.
+- A definition: a product's term follows its maker. A general term follows the field's use now. Two contexts: both,
+  each named by its context. One context: the knowledge base's own notes win. A source that calls a skill an agent
+  is wrong on that point.
+- An interpretation (why something matters): a source's view, "X says". Its date counts for nothing. What stands
+  behind it counts.
+- A lasting idea (how something works) and a general lesson (what to do): their date counts for nothing. A lesson is
+  general only with a study, data, or two independent creators. Else: "one creator found".
+- The owner's own lesson (`## My take`, `## My recipe …`): never changed by a writer or a check. A source against it
+  goes to the owner, who decides.
+
+Weigh by evidence:
+
+- A test or data over an opinion. A maker's own word over a reseller's. A person in their own field over one outside
+  it. Fame adds nothing.
+- An idea that held for decades weighs more. Stronger evidence still beats it. One new finding against it: both stay,
+  and the question is open until an independent source confirms the finding.
+- One person is one voice, however many videos or clips. A guest on a channel is their own voice, not the channel's.
+  The same view across their sources weighs more. A flip with no reason weighs less. A change with a reason ("I tried
+  it, it was wrong") is their view now, however big. A detail refined is no flip.
 
 ## When it changes
 

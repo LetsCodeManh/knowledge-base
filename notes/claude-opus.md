@@ -6,7 +6,7 @@ topic: "AI models"
 tags: [model, anthropic]
 aliases: ["Opus"]
 related: []
-updated: 2026-10-25
+updated: 2026-11-02
 ---
 
 # Claude Opus
@@ -39,9 +39,10 @@ out. Each version is a release, with its own note.
 
 - 2026-09-22 · big: Opus 5.5 is the newest Opus.
   Was: Opus 5, whose writing one review calls full of jargon ([Chase AI, 3:53](https://www.youtube.com/watch?v=ijPsFZ1EHlI&t=233s)).
-  Now: [Opus 5.5](claude-opus-5-5.md), which Anthropic says writes more plainly ([Chase AI, 3:53](https://www.youtube.com/watch?v=ijPsFZ1EHlI&t=233s)) and comes near
-  Fable 5.1 for 40% less ([Chase AI, 0:00](https://www.youtube.com/watch?v=ijPsFZ1EHlI&t=0s)).
-- 2026-07-29 · big: Opus 5 is the newest Opus.
+  Now: [Opus 5.5](claude-opus-5-5.md), which Anthropic says writes more plainly ([Chase AI, 3:53](https://www.youtube.com/watch?v=ijPsFZ1EHlI&t=233s)) and is priced
+  at 40% below Opus 5 for typical work ([Anthropic, Introducing Claude Opus 5.5](https://www.anthropic.com/news/models#:~:text=Introducing%20Claude%20Opus%205.5)). One reviewer adds that
+  it performs near Fable 5.1 ([Chase AI, 0:00](https://www.youtube.com/watch?v=ijPsFZ1EHlI&t=0s)).
+- 2026-07-24 · big: Opus 5 is the newest Opus.
   Was: Opus 4.8. Now: Opus 5, sold as near Fable for half the price
   ([Fireship, 0:00](https://www.youtube.com/watch?v=jxGJT1weu4w&t=0s)). Testers found it made up more answers than Opus 4.8 did ([Fireship, 1:19](https://www.youtube.com/watch?v=jxGJT1weu4w&t=79s)).
 
@@ -53,3 +54,4 @@ out. Each version is a release, with its own note.
 - [Meet Claude Fable 5.1](https://www.youtube.com/watch?v=uVS88gnaxcg), Anthropic, 2026-09-01
 - [Did Anthropic just kill the indie hacker...?](https://www.youtube.com/watch?v=jxGJT1weu4w), Fireship, 2026-07-29
 - [I Turned Claude Opus 4.8 Into My Entire AI Operating System](https://www.youtube.com/watch?v=0WDkwMxj13s), Nate Herk | AI Automation, 2026-05-29
+- [Models \ Anthropic](https://www.anthropic.com/news/models), Anthropic, 2026-10-31

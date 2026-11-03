@@ -6,7 +6,7 @@ topic: "AI basics"
 tags: [tokens, pricing, context]
 aliases: ["tokens"]
 related: []
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 # Token
@@ -44,6 +44,7 @@ AI companies use to set their prices and limits ([Better Stack, 0:45](https://ww
 **Spend fewer tokens**
 
 - Cached input costs less than fresh input: Prompt caching ([Anthropic, Check cache performance](https://code.claude.com/docs/en/prompt-caching#:~:text=Check%20cache%20performance)).
+- A commentator says Amazon and Meta shut their leaderboards of staff token use: Valuemaxxing ([ZAUEY (Claire Zau), 0:00](https://www.youtube.com/watch?v=msSZZenByJw&t=0s)).
 
 **See the limit tokens set**
 
@@ -63,3 +64,4 @@ AI companies use to set their prices and limits ([Better Stack, 0:45](https://ww
 - [Tool, skill, or subagent? Decomposing an agent that outgrew its prompt](https://www.youtube.com/watch?v=mWvtOHlZM-I), Claude, 2026-05-23
 - [CLI vs MCP: How AI Agents Choose the Right Tool for the Job](https://www.youtube.com/watch?v=g9JIUM0MHgQ), IBM Technology, 2026-05-04
 - [Passing JSON to an LLM is SUPER wasteful](https://www.youtube.com/watch?v=YjPD9Alf1co), Matt Pocock, 2025-09-23
+- [Goodbye Tokenmaxxing, Hello Valuemaxxing](https://www.youtube.com/watch?v=msSZZenByJw), ZAUEY (Claire Zau), 2026-06-05

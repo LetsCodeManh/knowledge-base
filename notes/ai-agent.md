@@ -27,6 +27,8 @@ The model only writes a tool call as text; the software around it must run it
 
 In code, this is a message history, a step count and a `while` loop that calls the model each round ([Matt Pocock, 0:00](https://www.youtube.com/watch?v=VxDNUKw83PY&t=0s), [1:17](https://www.youtube.com/watch?v=VxDNUKw83PY&t=77s)).
 
+This loop is often called ReAct: reason, act, look at the result, repeat ([Annie Wang, 2:12](https://www.youtube.com/watch?v=GxO7wwDVn14&t=132s)).
+
 ## A small example
 
 In n8n, the AI Agent node is a model with memory and tools. Asked "is the internet up?", it
@@ -81,6 +83,7 @@ An agent that reads outside content can be tricked by instructions hidden in it:
 - [7 AI Terms You Need to Know: Agents, RAG, ASI & More](https://www.youtube.com/watch?v=VSFuqMh4hus), IBM Technology, 2025-09-01
 - [AI Coding Dictionary](https://github.com/mattpocock/dictionary-of-ai-coding), Matt Pocock, 2026-09-24
 - [AI Agents are SO simple to build](https://www.youtube.com/watch?v=VxDNUKw83PY), Matt Pocock, 2025-09-24
+- [5 AI Agent Design Patterns You Should Know | Sequential, Parallel, Loop, Router, Graph](https://www.youtube.com/watch?v=GxO7wwDVn14), Annie Wang, 2026-08-01
 - [REA: Reverse Engineer Anything](https://github.com/morluto/rea), morluto, 2026-10-25
 - [OpenAI’s new browser feels familiar…](https://www.youtube.com/watch?v=5uSboan45Zg), Fireship, 2025-10-22
 - [Most devs don't understand what agents are](https://www.youtube.com/watch?v=AtYtuVTZCQU), Matt Pocock, 2025-10-08
